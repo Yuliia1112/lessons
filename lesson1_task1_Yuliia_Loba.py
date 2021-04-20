@@ -1,6 +1,7 @@
 duration  = int(input("Write the time in seconds:" ))
 
-#if duration // 86400:
+#if duration // 86400:ATOPE
+
 day = duration // 86400
 
 #if duration % 86400 > 3600:
